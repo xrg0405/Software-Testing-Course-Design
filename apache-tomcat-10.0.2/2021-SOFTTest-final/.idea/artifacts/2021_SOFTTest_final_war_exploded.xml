@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2021-SOFTTest-final:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2021_SOFTTest_final_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2021-SOFTTest-final/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2021-SOFTTest-final" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

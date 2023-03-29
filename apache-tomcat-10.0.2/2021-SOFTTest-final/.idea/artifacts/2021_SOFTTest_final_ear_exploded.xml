@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="2021-SOFTTest-final:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2021_SOFTTest_final_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2021-SOFTTest-final/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
